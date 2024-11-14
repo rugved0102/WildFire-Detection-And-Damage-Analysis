@@ -1,0 +1,11 @@
+matplotlib==3.2.1
+numpy==1.18.4
+streamlit==0.59.0
+tensorflow==2.2.0
+Keras==2.0.0
+Pillow==7.1.2
+protobuf==3.20.3
+click==8.0.4
+openpyxl==3.0.10
+pandas==1.1.5
+xlrd==2.0.1 
