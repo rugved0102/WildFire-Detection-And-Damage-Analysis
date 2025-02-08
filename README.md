@@ -16,3 +16,7 @@ For your better usage, the trained model has been stored in the docker container
 Then please use the code `docker run -p 8501:8501 app:latest`, this is going to open the app for you. <br/>
 Use your favourite browser, and type `http://localhost:8501/` and you should be able to open our app. <br/>
 After you done with the app, please remember to stop the container. <br/>
+
+### Demo
+https://github.com/user-attachments/assets/f859279e-b58f-47bb-ac9a-d6b11c79f867
+
